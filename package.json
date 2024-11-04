@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@nestjs/testing": "^10.4.6",
+    "@types/jest": "^29.5.14",
+    "@types/mqtt": "^0.0.34",
+    "supertest": "^7.0.0"
+    
+  },
+  "dependencies": {
+    "@nestjs/config": "^3.3.0",
+    "mqtt": "^5.10.1"
+  }
+}
